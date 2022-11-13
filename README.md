@@ -13,12 +13,13 @@ We assume you have a laptop and basic understanding of Python language and libra
 During this workshop, we will together build smart visualisations using a combination of data visualisation python libraries (matplotlib, plotly) using COVID-19 open source dataset (https://github.com/imdevskp/covid_19_jhu_data_web_scrap_and_cleaning ).
 
 We will cover the following graphs under visualisation:
-2-d bar charts
-2-d line charts
-2-d tree maps
-2-d region graphs
-3-d Scatter Plot
-3-d Area graph
+
+- 2-d bar charts
+- 2-d line charts
+- 2-d tree maps
+- 2-d region graphs
+- 3-d Scatter Plot
+- 3-d Area graph
 
 #### Credits
 
